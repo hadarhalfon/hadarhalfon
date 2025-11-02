@@ -3,7 +3,7 @@
 🎓 Computer Science student at The Open University of Israel   
 
 ## 🧠 Projects
-- 🛸 Drone Precision Landing Simulation
+- 🛸 Drone Precision Landing Simulation (https://github.com/hadarhalfon/drone-precision-landing)
 - 💻 C89 Assembler – Two-pass compiler (https://github.com/hadarhalfon/assembler)
 
 ## 💡 Languages & Tools
