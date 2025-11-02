@@ -4,7 +4,7 @@
 
 ## 🧠 Projects
 - 🛸 Drone Precision Landing Simulation
-- 💻 C89 Assembler – Two-pass compiler
+- 💻 C89 Assembler – Two-pass compiler (https://github.com/hadarhalfon/assembler)
 
 ## 💡 Languages & Tools
 `Python` `C` `Java` `NumPy` `MuJoCo` `Git` `Linux`
