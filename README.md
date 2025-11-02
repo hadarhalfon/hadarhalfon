@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Hadar Halfon
 
-<!--
-**hadarhalfon/hadarhalfon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at The Open University of Israel   
 
-Here are some ideas to get you started:
+## 🧠 Projects
+- 🛸 Drone Precision Landing Simulation
+- 💻 C89 Assembler – Two-pass compiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Languages & Tools
+`Python` `C` `Java` `NumPy` `MuJoCo` `Git` `Linux`
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/hadarhalfon)
+- ✉️ hadarhalfon@gmail.com
+
