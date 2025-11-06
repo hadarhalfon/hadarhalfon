@@ -10,6 +10,6 @@
 `Python` `C` `Java` `NumPy` `MuJoCo` `Git` `Linux`
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/hadarhalfon)
+- [LinkedIn] https://www.linkedin.com/in/hadar-halfon-441811394
 - ✉️ hadarhalfon@gmail.com
 
